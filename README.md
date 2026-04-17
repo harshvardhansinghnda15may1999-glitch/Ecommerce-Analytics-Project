@@ -42,6 +42,26 @@ This project addresses these challenges using data analysis and visualization.
 
 ---
 
+## 📓 Notebooks
+
+- [Data Loading & Analysis](notebooks/Data_Loading.ipynb)
+
+This notebook includes:
+- Data cleaning
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Business insights
+
+---
+
+## ▶️ How to Use
+
+1. Download the Power BI file from `dashboard/`
+2. Open in Power BI Desktop
+3. Interact with filters (state, city, payment type)
+
+For Python:
+- Open `notebooks/Data_Loading.ipynb` in Jupyter or Colab
 
 ---
 
