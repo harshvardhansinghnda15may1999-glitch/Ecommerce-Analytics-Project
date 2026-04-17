@@ -1,71 +1,80 @@
 # 🛒 E-commerce Customer Intelligence & Delivery Optimization
 
 ## 📌 Overview
-
-This project simulates a real-world data analytics system inspired by leading platforms like Amazon, Flipkart, Swiggy, and Zomato. It focuses on understanding customer behavior, predicting churn, and optimizing delivery performance.
+This project simulates a real-world data analytics system inspired by platforms like Amazon, Flipkart, Swiggy, and Zomato. It focuses on analyzing customer behavior, identifying revenue patterns, and optimizing delivery performance.
 
 ---
 
 ## 🎯 Business Problem
+E-commerce platforms often face:
 
-E-commerce and food delivery platforms struggle with:
+* High customer churn  
+* Inefficient delivery operations  
+* Poor customer segmentation  
 
-* Customer churn
-* Inefficient delivery times
-* Lack of customer segmentation
-
-This project solves these problems using data analytics and machine learning.
+This project addresses these challenges using data analysis and visualization.
 
 ---
 
 ## 📊 Key Objectives
 
-* Segment customers based on behavior
-* Predict customer churn
-* Analyze delivery performance
-* Build a recommendation system
-* Create an interactive business dashboard
+* Segment customers based on purchase behavior  
+* Analyze revenue trends over time  
+* Evaluate delivery performance  
+* Identify key revenue-driving customers and cities  
+* Build an interactive dashboard for decision-making  
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Python (Pandas, NumPy, Scikit-learn)
-* SQL (MySQL)
-* Power BI / Tableau
-* Streamlit (for app)
+* Python (Pandas, NumPy, Scikit-learn)  
+* SQL (MySQL)  
+* Power BI  
+* Streamlit  
 
 ---
 
 ## 📂 Project Structure
 
-data/
-notebooks/
-sql/
-dashboard/
-app/
+* data/notebooks/sql/dashboard/app/
 
 ---
 
-## 📊 Dashboard Preview
+
+---
+
+## 📊 Dashboard Preview  
 ![Dashboard](Screenshot of Dashboard.png)
+
+📁 **Power BI File:** [Download Dashboard](Dashboard.pbix)
+
+---
 
 ## 🔍 Key Insights
 
-* Top customers contribute majority of revenue
-* Delivery delays increase churn
-* Frequent users have higher retention
+* 📈 Top 20% customers contribute ~70% of total revenue  
+* ⏱ Delivery delays are linked with lower customer retention  
+* 💳 Credit card payments dominate (~70% of transactions)  
+* 🌍 Revenue is concentrated in top cities (regional dependency)  
+
+---
+
+## 💡 Business Impact
+
+* Enabled identification of high-value customers for targeted marketing  
+* Highlighted delivery inefficiencies affecting retention  
+* Provided a centralized dashboard for data-driven decision-making  
 
 ---
 
 ## 🚀 Future Improvements
 
-* Real-time data pipeline
-* Advanced recommendation system
-* A/B testing
+* Real-time data pipeline integration  
+* Advanced recommendation system  
+* A/B testing for customer retention strategies  
 
 ---
 
-## 📎 Author
-
-Harsh Vardhan Singh
+## 📎 Author  
+**Harsh Vardhan Singh**
