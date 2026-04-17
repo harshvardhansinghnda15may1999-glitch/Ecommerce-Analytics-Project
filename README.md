@@ -1,9 +1,19 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-MySQL-orange" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow" />
+</p>
+
 # 🛒 E-commerce Customer Intelligence & Delivery Optimization
 
 ## 📌 Overview
-This project simulates a real-world data analytics system inspired by platforms like Amazon, Flipkart, Swiggy, and Zomato. It focuses on analyzing customer behavior, identifying revenue patterns, and optimizing delivery performance.
 
-🚀 Built an end-to-end data analytics solution to analyze customer behavior, revenue trends, and delivery performance using Power BI, SQL, and Python.
+This project simulates a real-world data analytics system inspired by platforms like Amazon, Flipkart, Swiggy, and Zomato.
+
+🚀 **Built an end-to-end data analytics solution using Power BI, SQL, and Python to analyze customer behavior, revenue trends, and delivery performance.**
+
 ---
 
 ## 🎯 Business Problem
@@ -38,7 +48,13 @@ This project addresses these challenges using data analysis and visualization.
 
 ## 📂 Project Structure
 
-* data/notebooks/sql/dashboard/app/
+* Ecommerce-Analytics-Project/
+ │
+ ├── data/ # Raw & processed data
+ ├── notebooks/ # Python analysis notebooks
+ ├── dashboard/ # Power BI files
+ ├── app/ # Streamlit app (future)
+ └── README.md
 
 ---
 
@@ -68,7 +84,7 @@ For Python:
 ## 📊 Dashboard Preview  
 ![Dashboard](dashboard/Dashboard_preview.png)
 
-📁 **Power BI File:** [Download Dashboard](Dashboard.pbix)
+📁 **Power BI File:** [Download Dashboard](dashboard/Dashboard.pbix)
 
 ---
 
