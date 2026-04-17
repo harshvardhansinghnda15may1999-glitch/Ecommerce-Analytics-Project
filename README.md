@@ -47,7 +47,7 @@ app/
 
 ---
 
-## 🔍 Key Insights (To be updated)
+## 🔍 Key Insights
 
 * Top customers contribute majority of revenue
 * Delivery delays increase churn
