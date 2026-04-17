@@ -47,6 +47,9 @@ app/
 
 ---
 
+## 📊 Dashboard Preview
+![Dashboard](Screenshot of Dashboard.png)
+
 ## 🔍 Key Insights
 
 * Top customers contribute majority of revenue
