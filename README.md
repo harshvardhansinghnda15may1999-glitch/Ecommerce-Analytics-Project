@@ -45,7 +45,7 @@ This project addresses these challenges using data analysis and visualization.
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard](Screenshot of Dashboard.png)
+![Dashboard](dashboard_preview.png)
 
 📁 **Power BI File:** [Download Dashboard](Dashboard.pbix)
 
