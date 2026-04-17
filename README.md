@@ -3,6 +3,7 @@
 ## 📌 Overview
 This project simulates a real-world data analytics system inspired by platforms like Amazon, Flipkart, Swiggy, and Zomato. It focuses on analyzing customer behavior, identifying revenue patterns, and optimizing delivery performance.
 
+🚀 Built an end-to-end data analytics solution to analyze customer behavior, revenue trends, and delivery performance using Power BI, SQL, and Python.
 ---
 
 ## 🎯 Business Problem
@@ -47,7 +48,7 @@ This project addresses these challenges using data analysis and visualization.
 ## 📊 Dashboard Preview  
 ![Dashboard](dashboard_preview.png)
 
-📁 **Power BI File:** [Download Dashboard](Dashboard.pbix)
+📁 📁 **Power BI File:** [Download Dashboard](Dashboard.pbix)
 
 ---
 
